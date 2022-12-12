@@ -1,4 +1,6 @@
 # UselessAPI
+![image](https://user-images.githubusercontent.com/59968320/207068157-f353472e-0373-4c7e-9fab-08b3217ebd8c.png)
+
 Inspired to make an API by the KanyeREST api. Only has a GET method as for now. <br>
 Ok this API is incredibly slow. And thats because I'm dumb. Here's how I wanted it to work.
 API was made mostly using express
