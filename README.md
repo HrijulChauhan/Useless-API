@@ -28,4 +28,10 @@ API was made mostly using express
 
 ## TODO
 Figure out some of the logic at the end that I can't figure out yet (callbacks) <br>
-Also put this entire thing online so that I can use it via axios.
+Also put this entire thing online so that I can use it via axios. <br>
+Increase the number of tweets you can get. <br>
+
+## Tech used
+Node JS <br>
+Express <br>
+puppeteer + browserless automation <br>
