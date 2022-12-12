@@ -1,5 +1,5 @@
 # UselessAPI
-Inspired to make an API by the KanyeREST api. Only has a GET method as for now.
+Inspired to make an API by the KanyeREST api. Only has a GET method as for now. <br>
 Ok this API is incredibly slow. And thats because I'm dumb. Here's how I wanted it to work.
 API was made mostly using express
 
@@ -22,3 +22,7 @@ API was made mostly using express
  trial and error present. I will probably read up more on it as I get better at this.
  <br>
  For some reason if you remove line 79, which is app.use(tweetFunction); , the entire thing stops working. God knows why. If anyone can explain it to me TY.
+
+##TODO
+Figure out some of the logic at the end that I can't figure out yet <br>
+Also put this entire thing online so that I can use it via axios.
