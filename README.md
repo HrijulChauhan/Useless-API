@@ -18,11 +18,12 @@ API was made mostly using express
  
  <br>
  <br>
- Now I have to be honest I have very limited knowledge as to how the callback function / fat arrow actually works. I made this just for fun. And theres a lot of 
+ Now I have to be honest I have very limited knowledge as to how the callback function / fat arrow actually works. I have a vague idea of responses and promises.
+ I made this just for fun. And theres a lot of 
  trial and error present. I will probably read up more on it as I get better at this.
  <br>
  For some reason if you remove line 79, which is app.use(tweetFunction); , the entire thing stops working. God knows why. If anyone can explain it to me TY.
 
-##TODO
-Figure out some of the logic at the end that I can't figure out yet <br>
+## TODO
+Figure out some of the logic at the end that I can't figure out yet (callbacks) <br>
 Also put this entire thing online so that I can use it via axios.
